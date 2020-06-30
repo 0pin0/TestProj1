@@ -44,9 +44,6 @@ https://lh3.googleusercontent.com/nOzJX2GCiHpLhGHk_u8O-2PPLJwN9D8vqSGJWXryk0TGv0
 https://snowmiku.com/2017/images/info_mainvisual.jpg
 ">
 
-<img width=200 src="
-https://github.com/0pin0/TestProj1/blob/master/UploadPic/AnsRight.png
-">
 
 紅字<BR>
 `redword`
@@ -59,6 +56,7 @@ html表格 <BR>
 </table>
 
 Markdown表格 <BR>
+
 field|field|field
 -----|-----|-----
 value|value|value
